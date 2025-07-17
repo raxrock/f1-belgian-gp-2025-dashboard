@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "Bash(python:*)",
+      "Bash(rm:*)",
+      "WebFetch(domain:www.formula1.com)"
+    ],
+    "deny": []
+  }
+}

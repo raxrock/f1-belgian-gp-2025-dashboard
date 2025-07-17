@@ -1,0 +1,37 @@
+BELGIAN GRAND PRIX ANALYSIS REPORT
+==================================================
+Generated: 2025-07-17 09:06:28
+
+DATA SUMMARY
+--------------------
+Historical years analyzed: 2018-2024
+Laps: 4758 records
+Qualifying: 140 records
+Results: 140 records
+
+RACE WINNER PREDICTIONS
+------------------------------
+Model used: logistic_regression
+Top 5 contenders:
+  1. VER: 90.6%
+  2. NOR: 13.6%
+  3. LEC: 6.2%
+  4. PIA: 2.0%
+  5. SAI: 1.5%
+
+STRATEGY RECOMMENDATIONS
+------------------------------
+Red Bull Racing:
+  Recommended approach: Conservative (1-stop focus)
+
+Ferrari:
+  Recommended approach: Conservative (1-stop focus)
+
+Mercedes:
+  Recommended approach: Conservative (1-stop focus)
+
+Alpine:
+  Recommended approach: Conservative (1-stop focus)
+
+Aston Martin:
+  Recommended approach: Conservative (1-stop focus)

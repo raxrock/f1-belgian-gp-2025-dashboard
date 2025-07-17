@@ -1,0 +1,59 @@
+=== BELGIAN GRAND PRIX STRATEGY REPORT ===
+
+TEAM STRATEGY ANALYSIS
+----------------------------------------
+Recommended Approach: Conservative (1-stop focus)
+Strategic Diversity: 1/3
+Strategic Flexibility: 0.00
+
+DRIVER: VER
+--------------------
+Recommended Strategy: 2-stop
+  Stint 1: SOFT (18 laps)
+  Stint 2: MEDIUM (26 laps)
+Expected Race Time: 4651.3s
+Risk Factor: 0.001
+
+Top Undercut Opportunities:
+  Lap 15: 0.21s advantage (POSSIBLE)
+  Lap 16: 0.21s advantage (POSSIBLE)
+  Lap 17: 0.21s advantage (POSSIBLE)
+
+DRIVER: RIC
+--------------------
+Recommended Strategy: 2-stop
+  Stint 1: SOFT (18 laps)
+  Stint 2: MEDIUM (26 laps)
+Expected Race Time: 4654.2s
+Risk Factor: 0.001
+
+Top Undercut Opportunities:
+  Lap 15: 0.12s advantage (POSSIBLE)
+  Lap 16: 0.12s advantage (POSSIBLE)
+  Lap 17: 0.12s advantage (POSSIBLE)
+
+DRIVER: ALB
+--------------------
+Recommended Strategy: 2-stop
+  Stint 1: SOFT (18 laps)
+  Stint 2: MEDIUM (26 laps)
+Expected Race Time: 4651.7s
+Risk Factor: 0.001
+
+Top Undercut Opportunities:
+  Lap 15: 0.20s advantage (POSSIBLE)
+  Lap 16: 0.20s advantage (POSSIBLE)
+  Lap 17: 0.20s advantage (POSSIBLE)
+
+DRIVER: PER
+--------------------
+Recommended Strategy: 2-stop
+  Stint 1: SOFT (18 laps)
+  Stint 2: MEDIUM (26 laps)
+Expected Race Time: 4652.6s
+Risk Factor: 0.001
+
+Top Undercut Opportunities:
+  Lap 15: 0.17s advantage (POSSIBLE)
+  Lap 16: 0.17s advantage (POSSIBLE)
+  Lap 17: 0.17s advantage (POSSIBLE)
