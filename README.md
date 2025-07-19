@@ -10,6 +10,7 @@ An interactive web dashboard showcasing F1 2025 Belgian Grand Prix winner predic
 - **Tire Degradation Analysis**: Real-time tire performance curves for different compounds
 - **Pit Stop Strategy Comparison**: Side-by-side comparison of current vs optimized strategies
 - **Interactive Controls**: Adjust simulation parameters and re-run analyses
+- **F1 Race Calendar**: Live race schedule with navigation controls, fetched from official F1 calendar
 - **F1-Inspired Theme**: Racing-style UI with official F1 team colors and sleek design
 
 ## Installation
@@ -77,6 +78,9 @@ An interactive web dashboard showcasing F1 2025 Belgian Grand Prix winner predic
 - `plotly>=5.15.0` - Interactive visualizations
 - `pandas>=2.0.0` - Data manipulation
 - `numpy>=1.24.0` - Numerical computations
+- `requests>=2.31.0` - HTTP requests for calendar data
+- `icalendar>=5.0.0` - ICS calendar file parsing
+- `pytz>=2023.3` - Timezone handling
 
 ## Customization
 
